@@ -9,11 +9,42 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre</h2>
 
 ###
 
-<p align="left">Sou estudante de Engenharia da Computação - Bacharelado. E apaixonado por tecnologia desde criança. Minha jornada começou com um Super Nintendo, onde passei horas explorando mundos no clássico Super Mario World. Quando ganhei meu primeiro computador, compartilhava o tempo de uso com meu irmão. Juntos, aprendemos a explorar cada funcionalidade, e cada descoberta era uma experiência incrível e marcante.<br><br>Tenho experiência em HTML, CSS e JavaScript, e estou me aprofundando em bibliotecas como React. Além disso, estou expandindo meus conhecimentos no desenvolvimento mobile com Swift, buscando criar aplicativos que ofereçam experiências incríveis em diferentes plataformas.<br><br>Atualmente, estou focado em adquirir mais experiência prática por meio de projetos que envolvem a criação de aplicações web e mobile. Em cada projeto, aplico conceitos de usabilidade, boas práticas de programação e colaboração.<br><br>Gosto de trabalhar em equipe e acredito que o compartilhamento de ideias e experiências é essencial para o sucesso de qualquer projeto.<br>Sou curioso, dedicado e acredito que a tecnologia é uma poderosa ferramenta para transformar o mundo.<br><br>Vamos construir o futuro juntos?</p>
+### 🎓 Cursando Engenharia da Computação - Bacharelado | Apaixonado por programação e design
+
+Desde criança, a tecnologia sempre me fascinou. Meu primeiro contato foi com videogames, onde passei horas explorando mundos no **Super Mario World**. Antes de me aprofundar na programação, me apaixonei pelo design, explorando ferramentas como **Figma**, tipografia, o universo das cores e os princípios de **UX/UI**. Isso me permite criar interfaces que combinam funcionalidade e estética de forma intuitiva.
+
+### 💻 Desenvolvedor Full-Stack | Foco em Front-End
+
+Sou desenvolvedor full-stack, com foco principal no front-end, especializado em **JavaScript** e estilização com **CSS** e **Tailwind**. Tenho experiência com várias tecnologias e frameworks, incluindo:
+
+🔹 **Front-End**: HTML | CSS | Tailwind | SASS | JavaScript | TypeScript | React  
+🔹 **Back-End**: Node.js  
+🔹 **Mobile**: Swift  
+🔹 **Banco de Dados**: MySQL | MongoDB  
+🔹 **Versionamento**: Git
+
+### 📌 Explorando novas tecnologias
+
+Recentemente, comecei a estudar **Java** e tenho gostado da linguagem. Estou explorando sua sintaxe, conceitos de Programação Orientada a Objetos e aplicando esse conhecimento em projetos para fortalecer meu aprendizado.
+
+### 🎯 Diferenciais
+
+Minha formação em **Educação Física** me ajudou a desenvolver habilidades como trabalho em equipe, empatia e comunicação, fundamentais no desenvolvimento de soluções tecnológicas que atendem de forma eficaz as necessidades dos usuários.
+
+### 🎮 Além da tecnologia
+
+Nos momentos livres, adoro jogar videogames, treinar musculação e aprender algo novo. Acredito que o equilíbrio entre trabalho e hobbies é essencial para manter a criatividade e o foco no dia a dia.
+
+### 📩 Aberto a novas oportunidades, conexões e colaborações. Vamos conversar!
+
+🌐 **Site**: [lucasvilela.vercel.app](https://lucasvilela.vercel.app)  
+📧 **E-mail**: [lucasvilelapersonal@gmail.com](mailto:lucasvilelapersonal@gmail.com)  
+💻 **GitHub**: [github.com/lucasvilela91](https://github.com/lucasvilela91)
+
 
 ###
 

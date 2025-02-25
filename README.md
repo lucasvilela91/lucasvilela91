@@ -15,9 +15,9 @@
 
 ### 🎓 Cursando Engenharia da Computação - Bacharelado | Apaixonado por programação e design
 
-Desde criança, a tecnologia sempre me fascinou. Meu primeiro contato foi com videogames, onde passei horas explorando mundos no **Super Mario World**. Antes de me aprofundar na programação, me apaixonei pelo design, explorando ferramentas como **Figma**, tipografia, o universo das cores e os princípios de **UX/UI**. Isso me permite criar interfaces que combinam funcionalidade e estética de forma intuitiva.
+Desde criança, a tecnologia sempre me fascinou. Meu primeiro contato foi com videogames, onde passei horas explorando mundos no **Super Mario World**. Antes de mergulhar na programação, desenvolvi uma paixão pelo **design**, explorando tipografia, teoria das cores e os princípios de **UX/UI**. Essa experiência me permite criar interfaces que unem funcionalidade e estética de forma intuitiva e envolvente.
 
-### 💻 Desenvolvedor Full-Stack | Foco em Front-End
+### 💻 Desenvolvedor Full-Stack
 
 Sou desenvolvedor full-stack, com foco principal no front-end, especializado em **JavaScript** e estilização com **CSS** e **Tailwind**. Tenho experiência com várias tecnologias e frameworks, incluindo:
 

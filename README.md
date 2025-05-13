@@ -39,7 +39,6 @@ Minha formação em **Educação Física** me ajudou a desenvolver habilidades c
 
 Nos momentos livres, adoro jogar videogames, treinar musculação e aprender algo novo. Acredito que o equilíbrio entre trabalho e hobbies é essencial para manter a criatividade e o foco no dia a dia.
 
-### 📩 Aberto a novas oportunidades, conexões e colaborações. Vamos conversar!
 
 🌐 **Site**: [lucasvilela.vercel.app](https://lucasvilela.vercel.app)  
 📧 **E-mail**: [lucasvilelapersonal@gmail.com](mailto:lucasvilelapersonal@gmail.com)  

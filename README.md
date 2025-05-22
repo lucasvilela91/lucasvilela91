@@ -21,7 +21,7 @@ Desde criança, a tecnologia sempre me fascinou. Meu primeiro contato foi com vi
 
 Sou desenvolvedor full-stack, com foco principal no front-end, especializado em **JavaScript** e estilização com **CSS** e **Tailwind**. Tenho experiência com várias tecnologias e frameworks, incluindo:
 
-🔹 **Front-End**: HTML | CSS | Tailwind | SASS | JavaScript | TypeScript | React  
+🔹 **Front-End**: Tailwind | JavaScript | TypeScript | React  
 🔹 **Back-End**: Node.js  
 🔹 **Mobile**: Swift  
 🔹 **Banco de Dados**: MySQL | MongoDB  

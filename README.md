@@ -27,10 +27,6 @@ Sou desenvolvedor full-stack, com foco principal no front-end, especializado em 
 🔹 **Banco de Dados**: MySQL | MongoDB  
 🔹 **Versionamento**: Git
 
-### 📌 Explorando novas tecnologias
-
-Recentemente, comecei a estudar **Java** e tenho gostado da linguagem. Estou explorando sua sintaxe, conceitos de Programação Orientada a Objetos e aplicando esse conhecimento em projetos para fortalecer meu aprendizado.
-
 ### 🎯 Diferenciais
 
 Minha formação em **Educação Física** me ajudou a desenvolver habilidades como trabalho em equipe, empatia e comunicação, fundamentais no desenvolvimento de soluções tecnológicas que atendem de forma eficaz as necessidades dos usuários.

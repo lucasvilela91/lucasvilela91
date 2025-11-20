@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou o Lucas, um desenvolvedor apaixonado pelo que faz!</h1>
+<h1 align="center">Olá, eu sou o Lucas, desenvolvedor front-end em constante evolução!</h1>
 
 ###
 <p align="center">
 <a href="https://lucasvilela.vercel.app"><img src="https://img.shields.io/badge/-Site-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:lucasvilelapersonal@gmail.com"><img src="https://img.shields.io/badge/-Email-D62422?style=flat-square&labelColor=D62422&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lucasfreitasvilela"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
+</p>
 
 ###
 
@@ -13,33 +13,23 @@
 
 ###
 
-### 🎓 Cursando Engenharia da Computação - Bacharelado | Apaixonado por programação e design
+### 🎓 Cursando Engenharia da Computação - Bacharelado
 
-Desde criança, a tecnologia sempre me fascinou. Meu primeiro contato foi com videogames, onde passei horas explorando mundos no **Super Mario World**. Antes de mergulhar na programação, desenvolvi uma paixão pelo **design**, explorando tipografia, teoria das cores e os princípios de **UX/UI**. Essa experiência me permite criar interfaces que unem funcionalidade e estética de forma intuitiva e envolvente.
+Tenho interesse contínuo em desenvolvimento de software, com foco em front-end e um olhar atento à experiência do usuário. Atualmente, estou expandindo meus conhecimentos em back-end para me tornar um desenvolvedor mais completo e versátil.
 
-### 💻 Desenvolvedor Full-Stack
+Atuo na CI&T, uma multinacional de tecnologia reconhecida globalmente, onde iniciei minha trajetória através do programa de estágio NEXT GEN IA EDITION. Essa oportunidade tem sido essencial para meu crescimento técnico e profissional, permitindo que eu participe de projetos desafiadores e colaborativos em um ambiente de inovação constante.
 
-Sou desenvolvedor full-stack, com foco principal no front-end, especializado em **JavaScript** e estilização com **CSS** e **Tailwind**. Tenho experiência com várias tecnologias e frameworks, incluindo:
+Acredito na importância de escrever código limpo, escalável e alinhado às boas práticas de desenvolvimento. Estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e contribuir com soluções que façam a diferença.
 
-🔹 **Front-End**: Tailwind | JavaScript | TypeScript | React  
-🔹 **Back-End**: Node.js  
-🔹 **Mobile**: Swift  
-🔹 **Banco de Dados**: MySQL | MongoDB  
-🔹 **Versionamento**: Git
+💻 **Hard skills:** Typescript | React.js | Next.js | Node.js | Git | PostgreSQL | MySQL | MongoDB
 
-### 🎯 Diferenciais
-
-Minha formação em **Educação Física** me ajudou a desenvolver habilidades como trabalho em equipe, empatia e comunicação, fundamentais no desenvolvimento de soluções tecnológicas que atendem de forma eficaz as necessidades dos usuários.
 
 ### 🎮 Além da tecnologia
 
-Nos momentos livres, adoro jogar videogames, treinar musculação e aprender algo novo. Acredito que o equilíbrio entre trabalho e hobbies é essencial para manter a criatividade e o foco no dia a dia.
-
+Nos momentos livres, gosto de jogar videogames, treinar musculação e explorar novos aprendizados. Acredito que o equilíbrio entre trabalho e lazer é essencial para manter a criatividade e o foco.
 
 🌐 **Site**: [lucasvilela.vercel.app](https://lucasvilela.vercel.app)  
 📧 **E-mail**: [lucasvilelapersonal@gmail.com](mailto:lucasvilelapersonal@gmail.com)  
-💻 **GitHub**: [github.com/lucasvilela91](https://github.com/lucasvilela91)
-
 
 ###
 
@@ -70,7 +60,5 @@ Nos momentos livres, adoro jogar videogames, treinar musculação e aprender alg
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
-###
 
 

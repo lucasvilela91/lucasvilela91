@@ -13,15 +13,19 @@
 
 ###
 
-### 🎓 Cursando Engenharia da Computação - Bacharelado
+### 🎓 Engenheiro de Software Full Stack.
 
-Tenho interesse contínuo em desenvolvimento de software, com foco em front-end e um olhar atento à experiência do usuário. Atualmente, estou expandindo meus conhecimentos em back-end para me tornar um desenvolvedor mais completo e versátil.
+ Atualmente desenvolvendo soluções mobile para o ecossistema de conta digital.
 
-Atuo na CI&T, uma multinacional de tecnologia reconhecida globalmente, onde iniciei minha trajetória através do programa de estágio NEXT GEN IA EDITION. Essa oportunidade tem sido essencial para meu crescimento técnico e profissional, permitindo que eu participe de projetos desafiadores e colaborativos em um ambiente de inovação constante.
+Atuo na CI&T, uma multinacional de tecnologia reconhecida globalmente, onde iniciei minha trajetória através do programa de estágio NEXT GEN IA EDITION . Essa oportunidade tem sido essencial para meu crescimento técnico e profissional, permitindo que eu participe de projetos desafiadores e colaborativos em um ambiente de inovação constante.
+
+Tenho participação ativa nos refinamentos técnicos e de negócio, compreendendo os requisitos, com foco em propor melhorias e esclarecer dúvidas. 
 
 Acredito na importância de escrever código limpo, escalável e alinhado às boas práticas de desenvolvimento. Estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e contribuir com soluções que façam a diferença.
 
-💻 **Hard skills:** Typescript | React.js | Next.js | Node.js | Git | PostgreSQL | MySQL | MongoDB
+Possuo experiência:  Typescript, React.js, React Native, Node.js Clean Architecture, Design Patterns, API Rest, Docker, Banco de dados SQL e NoSQL,  AWS, Observabilidade com DataDog, Testes automatizados e Unitários.
+
+💻 **Experiência:** Typescript, React.js, React Native, Node.js Clean Architecture, Design Patterns, API Rest, Docker, Banco de dados SQL e NoSQL,  AWS, Observabilidade com DataDog, Testes automatizados e Unitários.
 
 
 ### 🎮 Além da tecnologia

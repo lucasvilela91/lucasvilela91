@@ -23,9 +23,9 @@ Tenho participação ativa nos refinamentos técnicos e de negócio, compreenden
 
 Acredito na importância de escrever código limpo, escalável e alinhado às boas práticas de desenvolvimento. Estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e contribuir com soluções que façam a diferença.
 
-Possuo experiência:  Typescript, React.js, React Native, Node.js Clean Architecture, Design Patterns, API Rest, Docker, Banco de dados SQL e NoSQL,  AWS, Observabilidade com DataDog, Testes automatizados e Unitários.
+💻 **Experiência** 
 
-💻 **Experiência:** Typescript, React.js, React Native, Node.js Clean Architecture, Design Patterns, API Rest, Docker, Banco de dados SQL e NoSQL,  AWS, Observabilidade com DataDog, Testes automatizados e Unitários.
+Typescript, React.js, React Native, Node.js Clean Architecture, Design Patterns, API Rest, Docker, Banco de dados SQL e NoSQL,  AWS, Observabilidade com DataDog, Testes automatizados e Unitários.
 
 
 ### 🎮 Além da tecnologia
